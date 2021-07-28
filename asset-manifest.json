@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reactcarousel/static/css/main.f7fa9a57.chunk.css",
+    "main.js": "/Reactcarousel/static/js/main.2c1feaa8.chunk.js",
+    "main.js.map": "/Reactcarousel/static/js/main.2c1feaa8.chunk.js.map",
+    "runtime-main.js": "/Reactcarousel/static/js/runtime-main.72ba3a5f.js",
+    "runtime-main.js.map": "/Reactcarousel/static/js/runtime-main.72ba3a5f.js.map",
+    "static/js/2.81f02582.chunk.js": "/Reactcarousel/static/js/2.81f02582.chunk.js",
+    "static/js/2.81f02582.chunk.js.map": "/Reactcarousel/static/js/2.81f02582.chunk.js.map",
+    "static/js/3.cb5da0ae.chunk.js": "/Reactcarousel/static/js/3.cb5da0ae.chunk.js",
+    "static/js/3.cb5da0ae.chunk.js.map": "/Reactcarousel/static/js/3.cb5da0ae.chunk.js.map",
+    "index.html": "/Reactcarousel/index.html",
+    "static/css/main.f7fa9a57.chunk.css.map": "/Reactcarousel/static/css/main.f7fa9a57.chunk.css.map",
+    "static/js/2.81f02582.chunk.js.LICENSE.txt": "/Reactcarousel/static/js/2.81f02582.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ba3a5f.js",
+    "static/js/2.81f02582.chunk.js",
+    "static/css/main.f7fa9a57.chunk.css",
+    "static/js/main.2c1feaa8.chunk.js"
+  ]
+}
